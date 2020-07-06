@@ -1,3 +1,5 @@
-This repo is inspired by
-https://github.com/jasontaylordev/CleanArchitecture
-https://github.com/unpub777/PersonalPortal
+This repo is inspired by:
+<br/>
+1. https://github.com/jasontaylordev/CleanArchitecture
+<br/>
+2. https://github.com/unpub777/PersonalPortal
